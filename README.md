@@ -7,7 +7,8 @@
 </h1>
 
 <h4 align="center">Challenge: Concurso de preguntas y respuestas</h4>
-
+<br>
+[![GitHub license](https://img.shields.io/github/license/sultan99/react-on-lambda.svg)](https://github.com/JoseNSoler/Quien-quiere-ser-millonario/blob/master/README.md)  [![GitHub license](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg)]()
 
 ## Descripcion V1.0
 
@@ -45,9 +46,10 @@ $ python main.py
 El programa inicia dejando al usuario escojer entre:
 * Iniciar el juego, empezando por introducir un ` nombre`  de jugador
 * Ver los resultados que jugadores previos obtuvieron (Al finalizar la partida, el puntaje actual y el ` nombre`  se guardan publicamente en una base de datos MongoDB)
+(`mongodb+srv://public:test@database.j4esf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority` Python 3.6 o posterior)
 
 <br>
-<p align="center"><img src="https://i.imgur.com/PuRRwMq.png" alt="Markdownify" width="600" ></p>
+<p align="center"><img src="https://i.imgur.com/PuRRwMq.png" alt="Markdownify" width="400" ></p>
 
 Al iniciar juego, se muestra informacion basica de el nivel y puntaje actual, asi como la pregunta a responder y las posibles respuestas en orden aleatorio, la respuesta a introducir debe ser igual a una de las opciones `A`, `B`, `C` o `D`;  El juego termina al introducir una respuesta erronea o escribiendo `rendirse`, convervando en ambas el maximo puntaje alcanzado
 
