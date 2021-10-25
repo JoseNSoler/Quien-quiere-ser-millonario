@@ -8,6 +8,8 @@
 
 <h4 align="center">Challenge: Concurso de preguntas y respuestas</h4>
 [![GitHub license](https://img.shields.io/github/license/sultan99/react-on-lambda.svg)](https://github.com/JoseNSoler/Quien-quiere-ser-millonario/blob/master/README.md)  [![GitHub license](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg)]()
+
+
 ## Descripcion V1.0
 
 `main.py` es un programa de concurso de preguntas y respuestas, la intencion fue diseñar una solucion que permita tener un banco de preguntas con diferentes opciones para una unica respuesta, cada pregunta esta categorizada por niveles (5 en total), por cada ronda se asigna un premio acumulable, el programa acaba cuando el jugador introduce una pregunta incorrecta
