@@ -4,6 +4,8 @@ import random
 import re
 import simplejson
 import time
+import urllib.request
+import urllib.error
 
 from src.objs import Question, User
 from src.utilities import clear, checkAns, selectionMode
@@ -62,15 +64,23 @@ def main():
         """
         name = selectionMode()
         level = 1
+
+        # Creation of user obj
         user1 = User(name)
 
-        with open('data.json', 'r', encoding='utf-8') as fileJson:
-            # json.dump(quest1.__dict__, fileJson, indent=4)
-            data = json.load(fileJson)
-
+        try:
+            # First try to retrieve data inmmutable from raw github file
+            rawData = urllib.request.urlopen(
+                "https://raw.githubusercontent.com/JoseNSoler/Quien-quiere-ser-millonario/master/data.json").read()
+            data = json.loads(rawData)
             game(data, level, user1)
+        except urllib.error.HTTPError:
+            # On error, Execute program with "data.json" questions
+            with open('data.json', 'r', encoding='utf-8') as fileJson:
+                # json.dump(quest1.__dict__, fileJson, indent=4)
+                data = json.load(fileJson)
+                game(data, level, user1)
 
-        exit()
 
 if __name__ == "__main__":
     main()
