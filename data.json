@@ -1,0 +1,252 @@
+[
+   {
+      "nivel":1,
+      "resultados":[
+         {
+            "quest":"¿En qué galaxia se encuentra la Tierra?",
+            "ans":"La galaxia de la Vía Láctea",
+            "wrong":[
+               "Marte",
+               "La nota de la galaxia",
+               "El agujero negro"
+            ]
+         },
+         {
+            "quest":"¿Cuántos centavos hay en un dólar?",
+            "ans":"100",
+            "wrong":[
+               "50",
+               "25",
+               "69"
+            ]
+         },
+         {
+            "quest":"¿Quién pintó la Mona Lisa?",
+            "ans":"Leonardo da Vinci",
+            "wrong":[
+               "Pablo Picasso",
+               "Claude Monet",
+               "Vincent van Gogh"
+            ]
+         },
+         {
+            "quest":"Un minotauro es mitad humano mitad ¿qué?",
+            "ans":"Toro",
+            "wrong":[
+               "Vaca",
+               "Caballo",
+               "Águila"
+            ]
+         },
+         {
+            "quest":"¿Qué empresa fue fundada el 1 de abril de 1976 por Steve Jobs, Steve Wozniak y Ronald Wayne?",
+            "ans":"Apple",
+            "wrong":[
+               "Atari",
+               "Microsoft",
+               "Comodoro"
+            ]
+         }
+      ]
+   },
+   {
+      "nivel":2,
+      "resultados":[
+         {
+            "quest":"¿Con qué tipo de energía funcionan los automóviles producidos por Telsa Motors?",
+            "ans":"Electricidad",
+            "wrong":[
+               "Gasolina",
+               "Diesel",
+               "Nuclear"
+            ]
+         },
+         {
+            "quest":"¿Qué país ha sido sede de la Copa Mundial de la FIFA 2018?",
+            "ans":"Rusia",
+            "wrong":[
+               "Alemania",
+               "Estados Unidos",
+               "Arabia Saudita "
+            ]
+         },
+         {
+            "quest":"¿Quién descubrió la penicilina?",
+            "ans":"Alexander Flemming",
+            "wrong":[
+               "Marie Curie",
+               "Alfred Nobel",
+               "Louis Pasteur"
+            ]
+         },
+         {
+            "quest":"¿Qué cantidad de bits suele ser igual a un byte?",
+            "ans":"8",
+            "wrong":[
+               "1",
+               "2",
+               "64"
+            ]
+         },
+         {
+            "quest":"¿Cuántos jugadores de fútbol deberían estar en el campo al mismo tiempo?",
+            "ans":"22",
+            "wrong":[
+               "20",
+               "24",
+               "26"
+            ]
+         }
+      ]
+   },
+   {
+      "nivel":3,
+      "resultados":[
+         {
+            "quest":"¿En qué estado de EE. UU. se encuentra el Área 51?",
+            "ans":"Nevada",
+            "wrong":[
+               "Arizona",
+               "Nuevo México",
+               "Utah"
+            ]
+         },
+         {
+            "quest":"¿Qué país será el anfitrión de la Copa Mundial de la FIFA 2022?",
+            "ans":"Qatar",
+            "wrong":[
+               "Uganda",
+               "Vietnam",
+               "Bolivia"
+            ]
+         },
+         {
+            "quest":"¿Qué luchador profesional cayó de las vigas a su muerte durante un evento Pay-Per-View en vivo en 1999?",
+            "ans":"Owen Hart",
+            "wrong":[
+               "Chris Benoit",
+               "Lex Luger",
+               "Al Snow"
+            ]
+         },
+         {
+            "quest":"¿Cuál fue el primer deporte que se jugó en la luna?",
+            "ans":"Golf",
+            "wrong":[
+               "Fútbol",
+               "Tenis",
+               "Ping Pong"
+            ]
+         },
+         {
+            "quest":"¿Qué evento marcó el inicio de la Segunda Guerra Mundial?",
+            "ans":"Invasión de Polonia (1939)",
+            "wrong":[
+               "Invasión de Rusia (1942)",
+               "Batalla de Gran Bretaña (1940)",
+               "Invasión de Normandía (1944)"
+            ]
+         }
+      ]
+   },
+   {
+      "nivel":4,
+      "resultados":[
+         {
+            "quest":"¿Cuál de los siguientes presidentes no está en el monte Rushmore?",
+            "ans":"John F. Kennedy",
+            "wrong":[
+               "Theodore Roosevelt",
+               "Abraham Lincoln",
+               "Thomas Jefferson"
+            ]
+         },
+         {
+            "quest":"¿Quién pintó el fresco bíblico La creación de Adán?",
+            "ans":"Miguel Ángel",
+            "wrong":[
+               "Leonardo da Vinci",
+               "Caravaggio ",
+               "Rembrandt "
+            ]
+         },
+         {
+            "quest":"¿Qué idioma usa Node.js?",
+            "ans":"JavaScript",
+            "wrong":[
+               "Java",
+               "Java Source",
+               "Joomla Source Code"
+            ]
+         },
+         {
+            "quest":"¿Cuál de estos elementos de la tabla periódica es un gas noble?",
+            "ans":"Neón",
+            "wrong":[
+               "Potasio",
+               "Yodo",
+               "Colbalto"
+            ]
+         },
+         {
+            "quest":"En informática, ¿qué significa MIDI?",
+            "ans":"Interfaz digital de instrumentos musicales",
+            "wrong":[
+               "Interfaz musical de instrumentos digitales",
+               "Interfaz modular de instrumentos digitales",
+               "Interfaz musical Interfaz de datos del instrumento "
+            ]
+         }
+      ]
+   },
+   {
+      "nivel":5,
+      "resultados":[
+         {
+            "quest":"¿Cuáles son los vasos sanguíneos más pequeños del cuerpo humano?",
+            "ans":"Capilares",
+            "wrong":[
+               "Arteriolas",
+               "Vénulas",
+               "Linfáticas"
+            ]
+         },
+         {
+            "quest":"¿Quién fue el único dios de Grecia que no cambió de nombre en Roma?",
+            "ans":"Apolo",
+            "wrong":[
+               "Deméter",
+               "Zeus",
+               "Atenea"
+            ]
+         },
+         {
+            "quest":"En béisbol, ¿cuántas veces se debe lanzar la pelota fuera de la zona de strike antes de que se camine al bateador?",
+            "ans":"4",
+            "wrong":[
+               "1",
+               "2",
+               "3"
+            ]
+         },
+         {
+            "quest":"¿Qué año se considera el año en que terminó el Imperio Británico?",
+            "ans":"1997",
+            "wrong":[
+               "1986",
+               "1981",
+               "1971"
+            ]
+         },
+         {
+            "quest":"¿Cuándo se fundó el equipo de futbol FC Barcelona?",
+            "ans":"1899",
+            "wrong":[
+               "1909",
+               "2008",
+               "1999"
+            ]
+         }
+      ]
+   }
+]
