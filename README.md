@@ -40,14 +40,14 @@ $ python main.py
 ***
 # Opciones
 <br>
-<p align="center"><img src="https://i.imgur.com/sh9f7I7.png" alt="Markdownify" width="400" ></p>
+<p align="center"><img src="https://i.imgur.com/sh9f7I7.png" alt="Markdownify" width="600" ></p>
 
 El programa inicia dejando al usuario escojer entre:
 * Iniciar el juego, empezando por introducir un ` nombre`  de jugador
 * Ver los resultados que jugadores previos obtuvieron (Al finalizar la partida, el puntaje actual y el ` nombre`  se guardan publicamente en una base de datos MongoDB)
 
 <br>
-<p align="center"><img src="https://i.imgur.com/PuRRwMq.png" alt="Markdownify" width="400" ></p>
+<p align="center"><img src="https://i.imgur.com/PuRRwMq.png" alt="Markdownify" width="600" ></p>
 
 Al iniciar juego, se muestra informacion basica de el nivel y puntaje actual, asi como la pregunta a responder y las posibles respuestas en orden aleatorio, la respuesta a introducir debe ser igual a una de las opciones `A`, `B`, `C` o `D`;  El juego termina al introducir una respuesta erronea o escribiendo `rendirse`, convervando en ambas el maximo puntaje alcanzado
 
