@@ -8,7 +8,6 @@
 
 <h4 align="center">Challenge: Concurso de preguntas y respuestas</h4>
 <br>
-[![GitHub license](https://img.shields.io/github/license/sultan99/react-on-lambda.svg)](https://github.com/JoseNSoler/Quien-quiere-ser-millonario/blob/master/README.md)  [![GitHub license](https://upload.wikimedia.org/wikipedia/commons/f/fc/Blue_Python_3.7_Shield_Badge.svg)]()
 
 ## Descripcion V1.0
 
