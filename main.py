@@ -2,7 +2,6 @@
 import json
 import random
 import re
-import simplejson
 import time
 import urllib.request
 import urllib.error

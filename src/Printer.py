@@ -31,7 +31,7 @@ _________________________________________________________
 |   FELICIDADES!!, HA GANADO EL JUEGO                   |
 |                                                       |
 |   NOMBRE: {}
-|   PUNTAJE FINAL: {}
+|   PUNTAJE FINAL: ${}
 |                                                       |
 |_______________________________________________________|
 """.format(getattr(user, "name"), getattr(user, "score"))
@@ -68,7 +68,7 @@ def printFormat(classQuest, user, level):
     print(
         """
 
-NIVEL ACTUAL= -{}-  PUNTAJE ACTUAL= -{}-
+NIVEL ACTUAL= -{}-  PUNTAJE ACTUAL= -${}-
 
 _______________________________________________________...
 |
