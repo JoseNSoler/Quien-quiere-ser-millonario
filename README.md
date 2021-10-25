@@ -48,7 +48,7 @@ El programa inicia dejando al usuario escojer entre:
 (`mongodb+srv://public:test@database.j4esf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority` Python 3.6 o posterior)
 
 <br>
-<p align="center"><img src="https://i.imgur.com/PuRRwMq.png" alt="Markdownify" width="400" ></p>
+<p align="center"><img src="https://i.imgur.com/PuRRwMq.png" alt="Markdownify" width="600" ></p>
 
 Al iniciar juego, se muestra informacion basica de el nivel y puntaje actual, asi como la pregunta a responder y las posibles respuestas en orden aleatorio, la respuesta a introducir debe ser igual a una de las opciones `A`, `B`, `C` o `D`;  El juego termina al introducir una respuesta erronea o escribiendo `rendirse`, convervando en ambas el maximo puntaje alcanzado
 
