@@ -9,6 +9,13 @@
 <h4 align="center">Challenge: Concurso de preguntas y respuestas</h4>
 <br>
 
+## Descripcion V2.0
+
+`main.py` [Quien quiere ser millonario - Online](http://jnsoler.pythonanywhere.com/) es una aplicacion desarrollada con el  “micro” Framework `flask` y alojada gratuitamente en los servidores de [pythonanywhere](https://www.pythonanywhere.com/), esta version online usa la misma logica que su version predecesora, asi como el uso de una base de datos MongoDB para el guardado de usuarios
+
+<br>
+<p align="center"><img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" alt="pythoneverywhere" width="600" ></p>
+
 ## Descripcion V1.0
 
 `main.py` es un programa de concurso de preguntas y respuestas, la intencion fue diseñar una solucion que permita tener un banco de preguntas con diferentes opciones para una unica respuesta, cada pregunta esta categorizada por niveles (5 en total), por cada ronda se asigna un premio acumulable, el programa acaba cuando el jugador introduce una pregunta incorrecta
