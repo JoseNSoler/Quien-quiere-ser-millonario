@@ -21,7 +21,7 @@ class User:
     """ User declaration """
     def __init__(self, name):
 
-        self.name = name
+        self._name = name
         self.date = datetime.now()
         self._score = 0
 
@@ -29,6 +29,16 @@ class User:
         """" Method for saving user """
         print("Guardando nombre y puntaje del usuario")
         records.insert_one(self.__dict__)
+
+    @property
+    def name(self):
+        """ Public getter score """
+        return self._name
+
+    @name.setter
+    def name(self, value):
+        """ Public setter score """
+        self._name = value
 
     @property
     def score(self):

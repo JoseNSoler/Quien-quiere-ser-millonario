@@ -18,7 +18,7 @@ def printPlayers():
     for user in list(records.find()):
         print(">NOMBRE: {}, SCORE: {} \n____________________________\n\n"
         .format(
-            user['name'],
+            user['_name'],
             user['_score']
         ))
 

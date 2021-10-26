@@ -43,6 +43,9 @@ $ cd Quien-quiere-ser-millonario
 
 # Ejecutar directamente por medio de python
 $ python main.py
+
+# Ejecutar en distribuciones Ubuntu/linux
+$ python3 main.py
 ```
 ***
 # Opciones
